@@ -21,3 +21,15 @@ origin is name of the url
 git remote -v --> to check the remote repo
 
 git push origin master/main --> to push changes of local to remote 
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/GirishMudigonda/gitcommandsuse
