@@ -1,0 +1,23 @@
+git init -> to create a repository 
+git status -> to check the commited stagged files
+git log -> to check the commited files
+git add . -> to add all unstagged files to stagged 
+git add <filename> -> to add particular file name to stagged 
+git rm --cached filename -> to remove from stagged to unstagged 
+git stash --> to put the stagged files to stash area 
+git stash pop --> to bring back stash files from stash area 
+git stash clear --> to clear files in stash area
+git reset <commmitid> --> to delete all the commits and moving deleted commits to unstagged
+
+
+how to connect local repository to remote repository
+
+git remote add origin <url of repository> --> to connect local to remote 
+here git is command
+remote is called as url you are working with
+add is url you going to add 
+origin is name of the url
+
+git remote -v --> to check the remote repo
+
+git push origin master/main --> to push changes of local to remote 
