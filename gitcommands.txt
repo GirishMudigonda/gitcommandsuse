@@ -23,9 +23,10 @@ git remote -v --> to check the remote repo
 git push origin master/main --> to push changes of local to remote 
 
 
-git commands used as per used 
 
 
+what is branch and why we create it ?
+-> when we work on new feature we need to create a branch , if we dont create branch then we will commit the changes on the main branch which is dangerous and people who work on new feature and dont create a branch then they will also push changes on the same main branch 
 
 
 to learn branching use learninggitbranching.js.org
