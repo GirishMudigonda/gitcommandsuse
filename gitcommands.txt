@@ -27,9 +27,7 @@ git push origin master/main --> to push changes of local to remote
 
 
 
-
-
-
+to learn branching use learninggitbranching.js.org
 
 
 https://github.com/GirishMudigonda/gitcommandsuse
