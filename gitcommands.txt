@@ -23,6 +23,7 @@ git remote -v --> to check the remote repo
 git push origin master/main --> to push changes of local to remote 
 
 
+git commands used as per used 
 
 
 
