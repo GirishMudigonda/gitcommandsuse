@@ -1,0 +1,26 @@
+->The initial command to run is git fetch for getting the latest updates of your repository.
+
+git fetch
+
+-> Then, you need to git rebase (suppose, the name of remote is origin, which is by default).
+
+The git rebase command will bring the latest commits of master to your branch.
+
+git rebase origin/master
+
+-> Switch to the master branch by running git checkout:
+
+git checkout master
+
+
+->Get the latest changes from master by using git pull:
+
+git pull origin master
+
+->Then merge the changes with the git merge command:
+
+git merge test
+
+->The final step is pushing local changes to the remote repository :
+
+git push origin master
