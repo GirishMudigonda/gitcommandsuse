@@ -1,0 +1,18 @@
+[8 9][0-9]{9}
+[A-Z][a-z]*[0-9]{1}[a-z]*
+
+
+
+
+regex understanding
+
+[a b c ] -> select a or b or c 
+[a-z] -> select a to z 
+[^ a b c] -> select anything except a b c 
+[A-Z]
+[0-9]
+
+\d select 0-9
+\w select A-Z a-z
+
+
